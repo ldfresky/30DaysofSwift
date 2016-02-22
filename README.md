@@ -2,6 +2,9 @@
 
 ![Alt text](https://raw.githubusercontent.com/allenwong/30DaysofSwift/master/github%20cover.png)
 
+[![Twitter URL](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=https://github.com/allenwong/30DaysofSwift)
+[![Twitter Follow](https://img.shields.io/twitter/follow/creativewang.svg?style=social)](https://twitter.com/creativewang)
+
 ## Hi Community ##
 
 I am Allen Wang, a [product designer](https://dribbble.com/openallen) and currently learning Swift.
